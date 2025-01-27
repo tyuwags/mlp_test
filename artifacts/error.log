@@ -1,2 +1,5 @@
-python: can't open file '/var/local/mlp_test/main.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "/var/local/mlp_test/projet_mlp.py", line 16, in <module>
+    import tensorflow as tf
+ModuleNotFoundError: No module named 'tensorflow'
 Task failed: Running mlp
