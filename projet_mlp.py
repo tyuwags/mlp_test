@@ -16,9 +16,6 @@ from sklearn.preprocessing import MinMaxScaler, RobustScaler
 import tensorflow as tf
 from scipy.fft import fft
 
-!wget https://maxime-devanne.com/datasets/ECG200/ECG200_TRAIN.tsv
-!wget https://maxime-devanne.com/datasets/ECG200/ECG200_TEST.tsv
-
 """Parameter to test the model"""
 
 norm = True
