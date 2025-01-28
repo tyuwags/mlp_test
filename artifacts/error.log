@@ -1,5 +1,2 @@
-Traceback (most recent call last):
-  File "/var/local/mlp_test/projet_mlp.py", line 10, in <module>
-    import numpy as np
-ModuleNotFoundError: No module named 'numpy'
+/usr/local/bin/runner: line 65: 96686 Illegal instruction     (core dumped) python3.12 projet_mlp.py
 Task failed: Running mlp
