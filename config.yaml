@@ -1,6 +1,6 @@
 tasks:
   - name: Running mlp
-    command: python projet_mlp.py
+    command: python3.12 projet_mlp.py
 
 # Logging configuration
 logging:
