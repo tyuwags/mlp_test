@@ -1,2 +1,2 @@
-/usr/local/bin/runner: line 65: 96686 Illegal instruction     (core dumped) python3.12 projet_mlp.py
+/usr/local/bin/runner: line 92: 96933 Illegal instruction     (core dumped) python3.12 projet_mlp.py
 Task failed: Running mlp
